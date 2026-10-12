@@ -1,0 +1,6 @@
+{
+  "name": "ZESH – Women's Bottom-Wear Brand",
+  "description": "Official corporate portal for ZESH, India's premier women's bottom-wear fashion brand. Explore pants, trousers, palazzos, joggers, and wholesale partnerships.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
